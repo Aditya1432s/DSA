@@ -8,6 +8,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | ------- |
 | [0007-reverse-integer](https://github.com/Aditya1432s/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
+| [3871-count-commas-in-range-ii](https://github.com/Aditya1432s/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
