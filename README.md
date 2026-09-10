@@ -17,4 +17,16 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya1432s/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya1432s/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya1432s/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
