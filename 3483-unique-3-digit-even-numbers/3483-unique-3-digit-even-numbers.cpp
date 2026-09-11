@@ -2,47 +2,46 @@ class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
 
+        int freq[10] = {};
+
+        for (int d : digits) {
+            freq[d]++;
+        }
+
         int ans = 0;
-    //    range of 3 digit numbers
+
         for (int num = 100; num <= 999; num++) {
 
-            // Number must be even
             if (num % 2 != 0)
                 continue;
 
             int x = num;
-        //    extract numbers from x like once tens hundred 
-            int d1 = x % 10;
+
+            int ones = x % 10;
             x /= 10;
 
-            int d2 = x % 10;
+            int tens = x % 10;
             x /= 10;
 
-            int d3 = x % 10;
+            int hundreds = x;
 
-            vector<int> freq(10, 0);
-//  count frequency of exract numbers in digit 
-            for (int d : digits) {
-                freq[d]++;
-            }
+            int required[10] = {};
 
-            if (freq[d1] > 0) {
-                freq[d1]--;
-            }
-            else {
-                continue;
-            }
+            required[hundreds]++;
+            required[tens]++;
+            required[ones]++;
 
-            if (freq[d2] > 0) {
-                freq[d2]--;
-            }
-            else {
-                continue;
+            bool possible = true;
+
+            for (int i = 0; i < 10; i++) {
+                if (required[i] > freq[i]) {
+                    possible = false;
+                    break;
+                }
             }
 
-            if (freq[d3] > 0) {
+            if (possible)
                 ans++;
-            }
         }
 
         return ans;
