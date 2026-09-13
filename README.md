@@ -12,6 +12,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya1432s/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya1432s/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -33,6 +34,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya1432s/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
