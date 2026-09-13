@@ -37,6 +37,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | ------- |
 | [0001-two-sum](https://github.com/Aditya1432s/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya1432s/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -57,6 +58,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -82,4 +84,8 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
