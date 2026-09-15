@@ -38,6 +38,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0001-two-sum](https://github.com/Aditya1432s/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya1432s/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -47,6 +48,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya1432s/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya1432s/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -83,6 +85,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
 ## Two Pointers
 |  |
