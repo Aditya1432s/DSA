@@ -25,6 +25,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aditya1432s/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -119,4 +120,8 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya1432s/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Aditya1432s/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
