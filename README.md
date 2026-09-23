@@ -47,6 +47,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0001-two-sum](https://github.com/Aditya1432s/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
@@ -105,6 +106,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya1432s/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -117,6 +119,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
 ## Combinatorics
 |  |
 | ------- |
