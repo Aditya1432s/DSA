@@ -30,6 +30,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
+| [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya1432s/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -133,6 +134,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
+| [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
 ## Combinatorics
 |  |
 | ------- |
