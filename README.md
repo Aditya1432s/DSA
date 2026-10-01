@@ -30,6 +30,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya1432s/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -163,6 +164,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya1432s/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya1432s/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -173,6 +175,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya1432s/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya1432s/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
