@@ -7,6 +7,9 @@ public:
 
         string doubled = s + s;
 
-        return doubled.find(goal) != string::npos;
+        if (doubled.find(goal) != string::npos)
+            return true;
+        else
+            return false;
     }
 };
