@@ -23,6 +23,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0001-two-sum](https://github.com/Aditya1432s/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Aditya1432s/DSA/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/Aditya1432s/DSA/tree/master/0205-isomorphic-strings) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya1432s/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -36,6 +37,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0020-valid-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Aditya1432s/DSA/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/Aditya1432s/DSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya1432s/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
