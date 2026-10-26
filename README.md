@@ -12,6 +12,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya1432s/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya1432s/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1922-count-good-numbers](https://github.com/Aditya1432s/DSA/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Aditya1432s/DSA/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/Aditya1432s/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aditya1432s/DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -118,6 +119,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Aditya1432s/DSA/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya1432s/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
