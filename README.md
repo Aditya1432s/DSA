@@ -9,6 +9,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0007-reverse-integer](https://github.com/Aditya1432s/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aditya1432s/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya1432s/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya1432s/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -87,6 +88,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
@@ -220,4 +222,8 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya1432s/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
