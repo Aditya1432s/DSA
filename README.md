@@ -10,6 +10,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0009-palindrome-number](https://github.com/Aditya1432s/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aditya1432s/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya1432s/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya1432s/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -101,6 +102,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Aditya1432s/DSA/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya1432s/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -205,6 +207,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditya1432s/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
