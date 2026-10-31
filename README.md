@@ -9,6 +9,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0007-reverse-integer](https://github.com/Aditya1432s/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aditya1432s/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aditya1432s/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
@@ -41,6 +42,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0022-generate-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya1432s/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aditya1432s/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aditya1432s/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Aditya1432s/DSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
@@ -175,6 +177,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya1432s/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -230,4 +233,8 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
