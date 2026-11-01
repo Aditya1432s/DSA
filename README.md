@@ -12,6 +12,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aditya1432s/DSA/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya1432s/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya1432s/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya1432s/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -78,6 +79,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya1432s/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya1432s/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya1432s/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
