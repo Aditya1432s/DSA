@@ -83,6 +83,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aditya1432s/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Aditya1432s/DSA/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -157,6 +158,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aditya1432s/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -172,6 +174,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya1432s/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aditya1432s/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya1432s/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
