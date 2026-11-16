@@ -177,6 +177,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aditya1432s/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya1432s/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya1432s/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
 ## Combinatorics
@@ -261,5 +262,6 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya1432s/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya1432s/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
