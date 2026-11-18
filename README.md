@@ -31,6 +31,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Aditya1432s/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Aditya1432s/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya1432s/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -92,6 +93,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Aditya1432s/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aditya1432s/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya1432s/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -164,6 +166,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0015-3sum](https://github.com/Aditya1432s/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aditya1432s/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya1432s/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
