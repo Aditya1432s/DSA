@@ -13,6 +13,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aditya1432s/DSA/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya1432s/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Aditya1432s/DSA/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya1432s/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -33,6 +34,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0205-isomorphic-strings](https://github.com/Aditya1432s/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aditya1432s/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya1432s/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -97,6 +99,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aditya1432s/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya1432s/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
@@ -116,6 +119,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya1432s/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya1432s/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -169,6 +173,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0016-3sum-closest](https://github.com/Aditya1432s/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya1432s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya1432s/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -269,6 +274,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
