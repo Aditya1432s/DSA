@@ -100,6 +100,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0219-contains-duplicate-ii](https://github.com/Aditya1432s/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Aditya1432s/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya1432s/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
@@ -192,6 +193,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya1432s/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya1432s/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Aditya1432s/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
 ## Combinatorics
 |  |
