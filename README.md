@@ -96,6 +96,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0039-combination-sum](https://github.com/Aditya1432s/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Aditya1432s/DSA/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Aditya1432s/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Aditya1432s/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aditya1432s/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
@@ -226,6 +227,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aditya1432s/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Aditya1432s/DSA/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -278,6 +280,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Aditya1432s/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
