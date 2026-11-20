@@ -30,6 +30,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0001-two-sum](https://github.com/Aditya1432s/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Aditya1432s/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Aditya1432s/DSA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Aditya1432s/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Aditya1432s/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0016-3sum-closest](https://github.com/Aditya1432s/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya1432s/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Aditya1432s/DSA/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Aditya1432s/DSA/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Aditya1432s/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aditya1432s/DSA/tree/master/0119-pascals-triangle-ii) |
