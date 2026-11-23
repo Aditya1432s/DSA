@@ -53,6 +53,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0058-length-of-last-word](https://github.com/Aditya1432s/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aditya1432s/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aditya1432s/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Aditya1432s/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Aditya1432s/DSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Aditya1432s/DSA/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Aditya1432s/DSA/tree/master/0796-rotate-string) |
@@ -73,6 +74,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aditya1432s/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya1432s/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya1432s/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya1432s/DSA/tree/master/0112-path-sum) |
@@ -98,6 +100,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0041-first-missing-positive](https://github.com/Aditya1432s/DSA/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aditya1432s/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aditya1432s/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aditya1432s/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Aditya1432s/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aditya1432s/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -187,6 +190,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Aditya1432s/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Aditya1432s/DSA/tree/master/0835-image-overlap) |
 ## Two Pointers
@@ -231,6 +235,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0039-combination-sum](https://github.com/Aditya1432s/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya1432s/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aditya1432s/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aditya1432s/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aditya1432s/DSA/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/Aditya1432s/DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
