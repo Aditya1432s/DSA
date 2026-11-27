@@ -106,6 +106,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0119-pascals-triangle-ii](https://github.com/Aditya1432s/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya1432s/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditya1432s/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aditya1432s/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Aditya1432s/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aditya1432s/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -129,6 +130,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya1432s/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Aditya1432s/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1432s/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aditya1432s/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1432s/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aditya1432s/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Aditya1432s/DSA/tree/master/0410-split-array-largest-sum) |
