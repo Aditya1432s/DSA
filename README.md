@@ -45,6 +45,7 @@ My Data Structures and Algorithms journey — C++ solutions, concepts, patterns,
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Aditya1432s/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Aditya1432s/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya1432s/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aditya1432s/DSA/tree/master/0020-valid-parentheses) |
